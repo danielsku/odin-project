@@ -16,6 +16,7 @@ A series of 5 CSS exercises that covers
 
 ### Others
 html-boilerplate         : practice the html boilerplate from memory
+
 odin-links-and-images    : practice HTML links and images
 
 ## How to run locally
