@@ -22,6 +22,8 @@ odin-links-and-images    : practice HTML links and images
 ## How to run locally
 To run any of the practice projects : 
 1. Install the appropriate folder you want to run (ex. to run recipe-project, install the recipe-project folder)
+  a. Click on the folder in github
+  b. Click the download icon in the top right
 2. Navigate to the folder on your pc
 3. Double click and navigate to index.html
 4. Double click on index.html and the file will run on your browser
